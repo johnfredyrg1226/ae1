@@ -1,0 +1,7 @@
+site_name: git-work
+site_description: Documentación de la práctica AE1 de Git
+
+docs_dir: docs
+
+nav:
+  - Inicio: index.md
