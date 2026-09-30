@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.cover {
+    text-align: center;
+    padding: 60px 20px;
+    color: navy;
+    text-shadow: 2px 2px 4px #999;
+}
+
+.startup {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
