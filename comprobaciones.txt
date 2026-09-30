@@ -1,0 +1,47 @@
+===== HISTORIAL GIT =====
+*   dfc5713 Fusiona cambios de custom-text
+|\  
+| * 27a5e25 Cambia color de portada a darkgreen
+| * 3ca47f3 Revisa documentación del repositorio
+| * cc853f2 Personaliza texto de la portada
+* | ff64db5 Cambia color de portada
+|/  
+* b0cf846 Agrega integracion continua
+* 5469fcc Configura MkDocs para la documentacion
+* ff15e00 agrega documentacion mkdocs. crea docs/index.md con la descricion ycontrol de verciones del proyecto
+* a925f84  agregamos estilo iniciales, se crea css/cover.css estilos base,color inicial y sombra para portada.
+* ce75023 a;ade pagina inicial del proyecto, se crea index.html con la estructura base, y la personalizacion git-work
+* 47f9030 se a;ade licnecia mit, incluye el archivo license y define las condiciones de uso y distribucion del repositorio
+* 8091765 se a;ade documentacion inicial, se crea readme.md, indice,y secciones para documentar la practica.
+* 2209064 Añade reglas de exclusión al repositorio
+
+===== REMOTOS =====
+origin	https://github.com/johnfredyrg1226/ae1.git (fetch)
+origin	https://github.com/johnfredyrg1226/ae1.git (push)
+
+===== ETIQUETAS =====
+0.1.0
+
+===== AUTORIA =====
+john fredy ramirez garcia <johfredy@hotmail.com>
+user2 espejo <user2@correo.com>
+
+===== ESTADO DEL REPOSITORIO =====
+En la rama main
+Tu rama está actualizada con 'origin/main'.
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	comprobaciones.txt
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+
+===== PULL REQUESTS =====
+2	Personalización de portada y revisión colaborativa	custom-text	MERGED	2026-09-30T21:38:53Z
+
+===== ISSUES =====
+3	OPEN	Personalizar portada del repositorio		2026-09-30T21:56:59Z
+1	OPEN	personalizar texto de la portada		2026-09-30T21:12:42Z
+
+===== RELEASES =====
+Versión 0.1.0	Latest	0.1.0	2026-09-30T21:58:13Z
