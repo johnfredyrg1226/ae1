@@ -31,3 +31,7 @@ Pendiente de completar durante la práctica.
 ## Repositorio remoto
 
 Pendiente de añadir el enlace al repositorio git-work y al pull request principal.
+
+## Revisión colaborativa
+
+Cambio realizado por user2 espejo durante la revisión del repositorio.
